@@ -1,3 +1,5 @@
+# by jon hudgins and jackie faselt 
+
 import json
 
 with open('superheroes.json', 'r') as f:
